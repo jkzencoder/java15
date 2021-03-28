@@ -1,2 +1,2 @@
 # java15
-java15 new feature examples
+Java 15 new feature examples
